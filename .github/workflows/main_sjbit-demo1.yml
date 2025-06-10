@@ -53,4 +53,4 @@ jobs:
           app-name: 'sjbit-demo1'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82FD3A0BF695473685AB55A2FCF00DD2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8CF629E385A1403EA2CF14E68CDA952A }}
